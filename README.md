@@ -7,5 +7,5 @@ Clone the project into your Go folder on your local machine to run locally
 Run
 
 ```bash
-Go run main.go
+Go build run
 ```
